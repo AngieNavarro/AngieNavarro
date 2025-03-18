@@ -1,4 +1,8 @@
 # Hola, soy Angie Navarro 👋
+<br/>
+Desarrollador web apasionado por crear soluciones innovadoras, con experiencia en desarrollo, análisis y validación de aplicaciones. Interesado en seguir aprendiendo y mejorar mis habilidades en tecnologías modernas, explorando nuevas herramientas y metodologías para construir aplicaciones eficientes y funcionales.
+
+Me motiva resolver problemas, optimizar procesos y trabajar en equipo para desarrollar proyectos que se adapten a las necesidades de los usuarios. Con interés en el desarrollo tanto frontend como backend, busco oportunidades para seguir creciendo y adquirir más experiencia en el mundo del desarrollo web.
 
 <!--
 **nombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,33 +53,38 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔍 GitHub Analytics
-
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center">
-        <h3 style="color: #2E8B57;">My GitHub Statistics</h3>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AngieNavarro&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=2E8B57&bg_color=00000000" alt="GitHub Stats" />
+        <h3 style="color: #3a9679;">My GitHub Statistics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=AngieNavarro&show_icons=true&count_private=true&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
         <br>
         <p>
-          <img src="https://img.shields.io/badge/Total_Stars-12.2k-2E8B57?style=flat-square&labelColor=00000000&color=2E8B57" alt="Total Stars" />
-          <img src="https://img.shields.io/badge/Total_Commits-2.2k-2E8B57?style=flat-square&labelColor=00000000&color=2E8B57" alt="Total Commits" />
-          <img src="https://img.shields.io/badge/Total_PRs-6-2E8B57?style=flat-square&labelColor=00000000&color=2E8B57" alt="Total PRs" />
-          <img src="https://img.shields.io/badge/Total_Issues-42-2E8B57?style=flat-square&labelColor=00000000&color=2E8B57" alt="Total Issues" />
-          <img src="https://img.shields.io/badge/Contributed_to-3-2E8B57?style=flat-square&labelColor=00000000&color=2E8B57" alt="Contributed to" />
+          <img src="https://img.shields.io/badge/Total_Stars-12.2k-3a9679?style=flat-square&labelColor=00000000&color=3a9679" alt="Total Stars" />
+          <img src="https://img.shields.io/badge/Total_Commits-2.2k-3a9679?style=flat-square&labelColor=00000000&color=3a9679" alt="Total Commits" />
+          <img src="https://img.shields.io/badge/Total_PRs-6-3a9679?style=flat-square&labelColor=00000000&color=3a9679" alt="Total PRs" />
+          <img src="https://img.shields.io/badge/Total_Issues-42-3a9679?style=flat-square&labelColor=00000000&color=3a9679" alt="Total Issues" />
+          <img src="https://img.shields.io/badge/Contributed_to-3-3a9679?style=flat-square&labelColor=00000000&color=3a9679" alt="Contributed to" />
         </p>
       </td>
       <td width="50%" align="center">
-        <h3 style="color: #2E8B57;">My Programming Languages</h3>
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieNavarro&layout=pie&hide_border=true&title_color=2E8B57&text_color=2E8B57&bg_color=00000000" />
+        <h3 style="color: #3a9679;">My Programming Languages</h3>
+        <div style="background-color: #f8f9fa; border-radius: 10px; padding: 10px; width: 80%; margin: 0 auto;">
+          <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngieNavarro&layout=donut&hide_border=true&title_color=3a9679&text_color=3a9679&bg_color=00000000&theme=buefy" alt="Most Used Languages" />
+        </div>
         <br>
         <p>
-          <img src="https://img.shields.io/badge/JavaScript-27.20%25-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=00000000&color=F7DF1E" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/C++-7.00%25-00599C?style=flat-square&logo=cplusplus&logoColor=00599C&labelColor=00000000&color=00599C" alt="C++" />
+          <img src="https://img.shields.io/badge/JavaScript-27.20%25-FFE7A9?style=flat-square&logo=javascript&logoColor=black&labelColor=FFE7A9" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/C++-7.00%25-A7D8DE?style=flat-square&logo=cplusplus&logoColor=black&labelColor=A7D8DE" alt="C++" />
         </p>
       </td>
     </tr>
   </table>
 </div>
+
+
+
+
 
 
