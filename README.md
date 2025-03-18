@@ -1,10 +1,10 @@
 # Hola, soy Angie Navarro 👋
 
 <br/>
-<div style="display: flex; justify-content: center; align-items: center; height: 300px; border: 2px solid black;">
-  <img src="https://github.com/user-attachments/assets/9d90deb7-45ba-4f5d-999d-4df816c77f82" style="max-width: 100%; height: auto;" />
-</div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d90deb7-45ba-4f5d-999d-4df816c77f82"  />
+</p>
 
 <hr/>
 
