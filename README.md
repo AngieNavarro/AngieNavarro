@@ -39,13 +39,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
 </p>
 
-### Database:
+### Base de Datos:
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white" />
 </p>
 
-### Tools and Technologies:
+### Herramientas:
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
