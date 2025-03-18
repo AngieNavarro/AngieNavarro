@@ -1,10 +1,11 @@
 # Hola, soy Angie Navarro 👋
 
 <br/>
-Desarrollador web apasionado por crear soluciones innovadoras, con experiencia en desarrollo, análisis y validación de aplicaciones. Interesado en seguir aprendiendo y mejorar mis habilidades en tecnologías modernas, explorando nuevas herramientas y metodologías para construir aplicaciones eficientes y funcionales.
+<p style="text-align: justify;">
+Desarrollador web apasionado 🔭 por crear soluciones innovadoras, con experiencia en desarrollo, análisis y validación de aplicaciones. Interesado en seguir aprendiendo y mejorar mis habilidades en tecnologías modernas, explorando nuevas herramientas y metodologías para construir aplicaciones eficientes y funcionales.
 
-Me motiva resolver problemas, optimizar procesos y trabajar en equipo para desarrollar proyectos que se adapten a las necesidades de los usuarios. Con interés en el desarrollo tanto frontend como backend, busco oportunidades para seguir creciendo y adquirir más experiencia en el mundo del desarrollo web.
-
+Me motiva resolver problemas, optimizar procesos y trabajar en equipo para desarrollar proyectos que se adapten a las necesidades de los usuarios. Con interés en el desarrollo tanto frontend como backend, busco oportunidades para seguir creciendo 🌱 y adquirir más experiencia en el mundo del desarrollo web.👯
+</p>
 <!--
 **nombre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
